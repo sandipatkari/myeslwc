@@ -1,0 +1,92 @@
+[
+    [
+        "D:\\Dev\\myeslwc\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Dev\\myeslwc\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559213626678,
+            "changeTime": 1559213626678,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\Dev\\myeslwc\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Dev\\myeslwc\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559213626679,
+            "changeTime": 1559213626679,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dev\\myeslwc\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Dev\\myeslwc\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559213626691,
+            "changeTime": 1559213626691,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dev\\myeslwc\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Dev\\myeslwc\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559213626679,
+            "changeTime": 1559213626679,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dev\\myeslwc\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Dev\\myeslwc\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559213626691,
+            "changeTime": 1559213626691,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Dev\\myeslwc",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Dev\\myeslwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559213647725,
+            "changeTime": 1559213647725,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
